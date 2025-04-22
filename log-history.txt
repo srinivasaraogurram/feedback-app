@@ -309,36 +309,43 @@ Author: Brad Traversy <traversymedia@gmail.com>
 Date:   Tue Oct 26 15:45:32 2021 -0400
 
     FeedbackStats component
+    git branch feature/07-feedbackstats-component af4977446731a002979f7648957737823a03403a
 06
 commit 29b097df7b8a267c8c07f7825aa7caa7bd177871
 Author: Brad Traversy <traversymedia@gmail.com>
 Date:   Tue Oct 26 14:55:51 2021 -0400
 
     Updated readme
+    git branch feature/06-updated-readme 29b097df7b8a267c8c07f7825aa7caa7bd177871
 05
 commit 78536596a41632dc77dfa6d7849de385bbc993c7
 Author: Brad Traversy <traversymedia@gmail.com>
 Date:   Tue Oct 26 14:46:29 2021 -0400
 
     Delete feedback item
+    git branch feature/05-delete-feedback-item 78536596a41632dc77dfa6d7849de385bbc993c7
 04
 commit 53d26d588c6c61545c11253ab6169ed5d30c6946
 Author: Brad Traversy <traversymedia@gmail.com>
 Date:   Tue Oct 26 14:25:57 2021 -0400
 
     Card component
+    git branch feature/04-card-component 53d26d588c6c61545c11253ab6169ed5d30c6946
 03
 commit 31b6fd020459491d9bc66a040c398dba44adaafd
 Author: Brad Traversy <traversymedia@gmail.com>
 Date:   Tue Oct 26 13:54:11 2021 -0400
 
     FeedbackList component & global state
+    git branch feature/03-feedbacklist-component-&-global-state 31b6fd020459491d9bc66a040c398dba44adaafd
+
 02
 commit d2c332e4b30360fafedc42a1e1d4cafb9132de41
 Author: Brad Traversy <traversymedia@gmail.com>
 Date:   Mon Oct 25 13:31:04 2021 -0400
 
     Header component
+    git branch feature/02-header-component d2c332e4b30360fafedc42a1e1d4cafb9132de41
 
 01
 commit e44eb27b293e6ae7f773dd6cbddc9834337ca58d
@@ -346,3 +353,5 @@ Author: Brad Traversy <traversymedia@gmail.com>
 Date:   Mon Oct 25 10:48:41 2021 -0400
 
     Initialize project using Create React App
+ 
+    git branch feature/01-CreateReactApp e44eb27b293e6ae7f773dd6cbddc9834337ca58d
