@@ -1,0 +1,363 @@
+commit 586b1b4b03fa896790c515afa71f38f4c2b8f1f7
+Author: srinivasaraogurram <srinivasarao.gurram@gmail.com>
+Date:   Fri Apr 18 20:16:35 2025 +0000
+
+    updated
+
+commit 4b00eba92bdecedd702fc97fbe9e4db98b0e8ace
+Author: srinivasaraogurram <srinivasarao.gurram@gmail.com>
+Date:   Fri Apr 18 20:15:29 2025 +0000
+
+    updated
+
+commit 2ca51c9c741bedec4b11bacff00074d07f2c8f37
+Author: srinivasaraogurram <srinivasarao.gurram@gmail.com>
+Date:   Fri Apr 18 20:13:02 2025 +0000
+
+    updating gitpod config
+
+commit 458f92b62e0e549535fcb6a888c90f93e2b13321
+Author: Will Adams <bushblade@gmail.com>
+Date:   Wed Aug 9 11:58:38 2023 +0100
+
+    doc: table of contents
+
+commit 367ba28aef80d1c2d4d9ab9adf7606e400c45c5a
+Author: Will Adams <bushblade@gmail.com>
+Date:   Wed Jun 21 09:22:20 2023 +0100
+
+    chore: formatting
+
+commit 405544e8539ec3913c3afd7bd88d9be96e6df4f9
+Author: Will Adams <bushblade@gmail.com>
+Date:   Wed Jun 21 09:21:53 2023 +0100
+
+    doc: spelling
+
+commit c28203414412484a67e4956983a86889797550cc
+Author: Will Adams <bushblade@gmail.com>
+Date:   Sat Jan 14 09:20:36 2023 +0000
+
+    update all packages
+
+commit 3fd4e33367a62b923e5909024e13310dd5b749fb
+Author: Will Adams <bushblade@gmail.com>
+Date:   Mon Dec 19 21:14:47 2022 +0000
+
+    update all packages to latest
+
+commit d76cc0d65906dc040b53ec7a2a86c76ca4678bb3
+Author: Will Adams <bushblade@gmail.com>
+Date:   Sat Nov 19 18:46:01 2022 +0000
+
+    more consistent with lesson code
+
+commit 403b277d9f9e7c094e0929a218dd04ecd0621a38
+Author: Will Adams <bushblade@gmail.com>
+Date:   Sat Nov 19 18:41:23 2022 +0000
+
+    clean comments
+
+commit 0c940a62b2263c5c3c2fcc59f50064a4fc73ff44
+Author: Will Adams <bushblade@gmail.com>
+Date:   Sat Nov 19 18:35:12 2022 +0000
+
+    toFixed like in lesson
+
+commit b308a0b85b02ade573987815137537d654104d99
+Author: Will Adams <bushblade@gmail.com>
+Date:   Thu Nov 3 08:19:10 2022 +0000
+
+    update packages
+
+commit 5d14cb4178309fc0568df059a27671f3d72dfae8
+Author: Will Adams <bushblade@gmail.com>
+Date:   Wed Jun 15 08:54:17 2022 +0100
+
+    prop-types in separate package
+
+commit 840309396b89f16dd16af1136432033baff299c9
+Author: Will Adams <bushblade@gmail.com>
+Date:   Wed Apr 13 08:58:06 2022 +0100
+
+    clearer note
+
+commit 993f755069305aa86f1e98dec144037560589944
+Author: Will Adams <bushblade@gmail.com>
+Date:   Thu Mar 31 11:45:55 2022 +0100
+
+    update to React 18
+
+commit 210f4c30d3e74c04960c0e2e0d3a94026ae4c0aa
+Author: Will Adams <bushblade@gmail.com>
+Date:   Thu Mar 31 11:43:46 2022 +0100
+
+    use layout from framer motion
+
+commit 2d7064f80405c10d9b958ee7b5181b17dcf0dbe1
+Merge: 9e58682 b6edb0e
+Author: Will Adams <bushblade@gmail.com>
+Date:   Sat Feb 12 14:23:26 2022 +0000
+
+    Merge branch 'bugfix'
+
+commit b6edb0e8f808de0d542e695b5c556c616df681d0
+Author: Will Adams <bushblade@gmail.com>
+Date:   Sat Feb 12 14:19:29 2022 +0000
+
+    improve notes before merge
+
+commit 375f3fc0f5a5ec8a01138b17c36fb099694773b2
+Author: Will Adams <bushblade@gmail.com>
+Date:   Fri Feb 11 08:44:47 2022 +0000
+
+    correct file path
+
+commit c4c5a217d18584e75a9b68dd34db8be15a99da17
+Author: Will Adams <bushblade@gmail.com>
+Date:   Tue Feb 8 20:24:53 2022 +0000
+
+    FIX: #4
+
+commit 9e586823d5652b299edcf6237671a68b29625461
+Merge: 55d9b02 4283aff
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Sat Feb 5 10:19:49 2022 -0500
+
+    Merge pull request #5 from sainath378/main
+    
+    Added link header  text
+
+commit 4283affd65671b3e462de4a0d2b62f3f54e95e3b
+Author: sainath378 <92171156+sainath378@users.noreply.github.com>
+Date:   Sat Feb 5 20:26:06 2022 +0530
+
+    Added link header  text
+
+commit d37223251284b315713fe98469edbb2edba9a6d1
+Author: Will Adams <bushblade@gmail.com>
+Date:   Wed Feb 2 14:30:55 2022 +0000
+
+    better description
+
+commit 0f79b445fa7ab7e1b2c69022fc2f9771a47930ae
+Author: Will Adams <bushblade@gmail.com>
+Date:   Wed Feb 2 13:49:12 2022 +0000
+
+    links go to line in code
+
+commit 781e04bc540ea3d8a564eded56cb849c58e60f48
+Author: Will Adams <bushblade@gmail.com>
+Date:   Wed Feb 2 13:47:36 2022 +0000
+
+    notes on bugs so far
+
+commit 05f4e6995d3c240b7f0f54a048042c10d9a741fc
+Author: Will Adams <bushblade@gmail.com>
+Date:   Wed Feb 2 11:57:29 2022 +0000
+
+    add .env to .gitignore
+
+commit fe2c8f2e3ef69330b50d2dfedb2457bddf45d1b7
+Author: Will Adams <bushblade@gmail.com>
+Date:   Wed Jan 12 21:17:33 2022 +0000
+
+    no such prop 'exact' on Route
+
+commit a92842aaf53909091343d3c4ef60a5937a9b7e83
+Author: Will Adams <bushblade@gmail.com>
+Date:   Wed Jan 12 21:08:14 2022 +0000
+
+    reset to default state after feedback submit
+
+commit cdcacae18e4c5594a1499bb61a32de21f836c476
+Author: Will Adams <bushblade@gmail.com>
+Date:   Mon Jan 3 20:08:20 2022 +0000
+
+    simpler setFeedback after update
+
+commit aef4e28fdd774e3854951d95b085ef47c56fe645
+Author: Will Adams <bushblade@gmail.com>
+Date:   Sun Jan 2 10:37:23 2022 +0000
+
+    no need for context or useEffect
+
+commit 8851a4c1e03dc78363d7ae5ec0e66d60da37e117
+Author: Will Adams <bushblade@gmail.com>
+Date:   Sun Jan 2 10:36:53 2022 +0000
+
+    no need to check value in else if
+
+commit 7b55dd2a3fcab92dd2d9c44b997ce42f9232b25b
+Author: Will Adams <bushblade@gmail.com>
+Date:   Sun Dec 26 19:27:30 2021 +0000
+
+    simpler average calculation
+
+commit ea055465e432122ae178de9ef86baa0c88b8d95f
+Author: Will Adams <bushblade@gmail.com>
+Date:   Tue Dec 21 18:03:02 2021 +0000
+
+    better commenting
+
+commit 73b12afb3d62c45043bd45951993ab815f651f0b
+Author: Will Adams <bushblade@gmail.com>
+Date:   Tue Dec 21 13:40:44 2021 +0000
+
+    prettier
+
+commit e8a82d382ec02fe4108d1212a31d1ae70d4b31cc
+Author: Will Adams <bushblade@gmail.com>
+Date:   Tue Dec 21 13:40:22 2021 +0000
+
+    Some fixes with notes
+
+commit 55d9b026eacc9de2988c53470710cf720b4f28b8
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Fri Dec 3 10:59:38 2021 -0500
+
+    Update README.md
+
+commit e925c2076825d4f524f7d7d859e163124ef9f5d5
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Tue Nov 9 10:27:12 2021 -0500
+
+    Updated react router to v6
+
+commit b66eef038161bebe8338ebc350de616a04dd8283
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Mon Nov 1 11:33:07 2021 -0400
+
+    Delete and update from server
+
+commit c81a54996f2062faeec327a9d038f533964b79c6
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Mon Nov 1 11:11:08 2021 -0400
+
+    Add feedback via API
+
+commit d69c37d2ffecc2a03c1946dd82b6e9ac12b7157e
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Mon Nov 1 10:53:36 2021 -0400
+
+    Spinner component
+
+commit 0839429726cc5520e3e6394d8d57eedc65451adc
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Mon Nov 1 10:43:28 2021 -0400
+
+    Fetch data from backend json-server
+
+commit 0a4e9160136a2fc99c3a1e9f3a67dcc7d2b5c9df
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Mon Nov 1 10:13:07 2021 -0400
+
+    Fetch data from backend json-server
+
+commit b7ff15106330571dedb95eef28830ba99b1c6154
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Fri Oct 29 09:50:21 2021 -0400
+
+    Update feedback item
+
+commit c11608e3a611e606de12fe5e6e6d258f18964738
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Fri Oct 29 09:21:41 2021 -0400
+
+    Display edit data in form
+
+commit 762e35782e33fb38f687dde0f5226f6f5e0d92a9
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Fri Oct 29 09:02:07 2021 -0400
+
+    Feedback edit event and state
+
+commit 5323f23768781f2b148efd8765058a44bb6d566b
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Thu Oct 28 14:04:59 2021 -0400
+
+    Move functions to context
+
+commit a03bb2cae68c600e1a35b26ed3bdd2f2ade0fcd0
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Thu Oct 28 13:30:19 2021 -0400
+
+    Created context and provider
+
+commit 7725e0557b3bbe754ae8fe9f73212b6a26d4892e
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Thu Oct 28 11:43:23 2021 -0400
+
+    Added router and about page
+
+commit faaa7e176288a40f32d2db944879d3fe6bc134d7
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Wed Oct 27 14:23:39 2021 -0400
+
+    Feeback item fade animation
+
+commit a7c8bced2db545fb1e53ff7770f67559c9f74143
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Wed Oct 27 13:45:11 2021 -0400
+
+    Add feedback
+
+commit f30cae7d0ee326b90fa64ac4a63432bec2153d19
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Wed Oct 27 13:06:26 2021 -0400
+
+    RatingSelect component
+
+commit 2010c4103eb200f19de2a3953cd3a68b9e318fc0
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Wed Oct 27 12:45:27 2021 -0400
+
+    Real-time input validation
+
+commit 9da5340097e4d3963d320b9efea823d505f98add
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Wed Oct 27 12:09:58 2021 -0400
+
+    FeedbackForm input and Button component
+
+commit af4977446731a002979f7648957737823a03403a
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Tue Oct 26 15:45:32 2021 -0400
+
+    FeedbackStats component
+
+commit 29b097df7b8a267c8c07f7825aa7caa7bd177871
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Tue Oct 26 14:55:51 2021 -0400
+
+    Updated readme
+
+commit 78536596a41632dc77dfa6d7849de385bbc993c7
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Tue Oct 26 14:46:29 2021 -0400
+
+    Delete feedback item
+
+commit 53d26d588c6c61545c11253ab6169ed5d30c6946
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Tue Oct 26 14:25:57 2021 -0400
+
+    Card component
+
+commit 31b6fd020459491d9bc66a040c398dba44adaafd
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Tue Oct 26 13:54:11 2021 -0400
+
+    FeedbackList component & global state
+
+commit d2c332e4b30360fafedc42a1e1d4cafb9132de41
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Mon Oct 25 13:31:04 2021 -0400
+
+    Header component
+
+commit e44eb27b293e6ae7f773dd6cbddc9834337ca58d
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Mon Oct 25 10:48:41 2021 -0400
+
+    Initialize project using Create React App
