@@ -337,7 +337,7 @@ Author: Brad Traversy <traversymedia@gmail.com>
 Date:   Tue Oct 26 13:54:11 2021 -0400
 
     FeedbackList component & global state
-    git branch feature/03-feedbacklist-component-&-global-state 31b6fd020459491d9bc66a040c398dba44adaafd
+    git branch feature/03-feedbacklist-component-and-global-state 31b6fd020459491d9bc66a040c398dba44adaafd
 
 02
 commit d2c332e4b30360fafedc42a1e1d4cafb9132de41
